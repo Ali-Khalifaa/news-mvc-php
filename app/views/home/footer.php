@@ -8,7 +8,7 @@
                                 <div class="list-group">
                                     <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                         <div class="w-100 justify-content-between">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_01.jpg" alt="" class="img-fluid float-left">
+                                            <img src="<?= PATH;?>front/upload/blog_square_01.jpg" alt="" class="img-fluid float-left">
                                             <h5 class="mb-1">5 Beautiful buildings you need to before dying</h5>
                                             <small>12 Jan, 2016</small>
                                         </div>
@@ -16,7 +16,7 @@
 
                                     <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                         <div class="w-100 justify-content-between">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid float-left">
+                                            <img src="<?= PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid float-left">
                                             <h5 class="mb-1">Let's make an introduction for creative life</h5>
                                             <small>11 Jan, 2016</small>
                                         </div>
@@ -24,7 +24,7 @@
 
                                     <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                         <div class="w-100 last-item justify-content-between">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid float-left">
+                                            <img src="<?= PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid float-left">
                                             <h5 class="mb-1">Did you see the most beautiful sea in the world?</h5>
                                             <small>07 Jan, 2016</small>
                                         </div>
@@ -41,7 +41,7 @@
                                 <div class="list-group">
                                     <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                         <div class="w-100 justify-content-between">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_04.jpg" alt="" class="img-fluid float-left">
+                                            <img src="<?= PATH;?>front/upload/blog_square_04.jpg" alt="" class="img-fluid float-left">
                                             <h5 class="mb-1">Banana-chip chocolate cake recipe with customs</h5>
                                             <span class="rating">
                                                 <i class="fa fa-star"></i>
@@ -55,7 +55,7 @@
 
                                     <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                         <div class="w-100 justify-content-between">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_07.jpg" alt="" class="img-fluid float-left">
+                                            <img src="<?= PATH;?>front/upload/blog_square_07.jpg" alt="" class="img-fluid float-left">
                                             <h5 class="mb-1">10 practical ways to choose organic vegetables</h5>
                                             <span class="rating">
                                                 <i class="fa fa-star"></i>
@@ -69,7 +69,7 @@
 
                                     <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                         <div class="w-100 last-item justify-content-between">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_06.jpg" alt="" class="img-fluid float-left">
+                                            <img src="<?= PATH;?>front/upload/blog_square_06.jpg" alt="" class="img-fluid float-left">
                                             <h5 class="mb-1">We are making homemade ravioli, nice and good</h5>
                                             <span class="rating">
                                                 <i class="fa fa-star"></i>
@@ -109,7 +109,7 @@
                     <div class="col-lg-8 offset-lg-2">
                         <div class="widget">
                             <div class="footer-text text-center">
-                                <a href="index.html"><img src="<?= CSS_PATH;?>front/images/flogo.png" alt="" class="img-fluid"></a>
+                                <a href="index.html"><img src="<?= PATH;?>front/images/flogo.png" alt="" class="img-fluid"></a>
                                 <p>Cloapedia is a personal blog for handcrafted, cameramade photography content, fashion styles from independent creatives around the world.</p>
                                 <div class="social">
                                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>              
@@ -146,10 +146,10 @@
 
     <!-- Core JavaScript
     ================================================== -->
-    <script src="<?= CSS_PATH;?>front/js/jquery.min.js"></script>
-    <script src="<?= CSS_PATH;?>front/js/tether.min.js"></script>
-    <script src="<?= CSS_PATH;?>front/js/bootstrap.min.js"></script>
-    <script src="<?= CSS_PATH;?>front/js/custom.js"></script>
+    <script src="<?= PATH;?>front/js/jquery.min.js"></script>
+    <script src="<?= PATH;?>front/js/tether.min.js"></script>
+    <script src="<?= PATH;?>front/js/bootstrap.min.js"></script>
+    <script src="<?= PATH;?>front/js/custom.js"></script>
 
 </body>
 </html>

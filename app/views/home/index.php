@@ -5,7 +5,7 @@
                 <div class="masonry-blog clearfix">
                     <div class="left-side">
                         <div class="masonry-box post-media">
-                             <img src="<?= CSS_PATH;?>front/upload/blog_masonry_01.jpg" alt="" class="img-fluid">
+                             <img src="<?= PATH;?>front/upload/blog_masonry_01.jpg" alt="" class="img-fluid">
                              <div class="shadoweffect">
                                 <div class="shadow-desc">
                                     <div class="blog-meta">
@@ -21,7 +21,7 @@
 
                     <div class="center-side">
                         <div class="masonry-box post-media">
-                             <img src="<?= CSS_PATH;?>front/upload/blog_masonry_02.jpg" alt="" class="img-fluid">
+                             <img src="<?= PATH;?>front/upload/blog_masonry_02.jpg" alt="" class="img-fluid">
                              <div class="shadoweffect">
                                 <div class="shadow-desc">
                                     <div class="blog-meta">
@@ -35,7 +35,7 @@
                         </div><!-- end post-media -->
 
                         <div class="masonry-box small-box post-media">
-                             <img src="<?= CSS_PATH;?>front/upload/blog_masonry_03.jpg" alt="" class="img-fluid">
+                             <img src="<?= PATH;?>front/upload/blog_masonry_03.jpg" alt="" class="img-fluid">
                              <div class="shadoweffect">
                                 <div class="shadow-desc">
                                     <div class="blog-meta">
@@ -47,7 +47,7 @@
                         </div><!-- end post-media -->
 
                         <div class="masonry-box small-box post-media">
-                             <img src="<?= CSS_PATH;?>front/upload/blog_masonry_04.jpg" alt="" class="img-fluid">
+                             <img src="<?= PATH;?>front/upload/blog_masonry_04.jpg" alt="" class="img-fluid">
                              <div class="shadoweffect">
                                 <div class="shadow-desc">
                                     <div class="blog-meta">
@@ -61,7 +61,7 @@
 
                     <div class="right-side hidden-md-down">
                         <div class="masonry-box post-media">
-                             <img src="<?= CSS_PATH;?>front/upload/blog_masonry_05.jpg" alt="" class="img-fluid">
+                             <img src="<?= PATH;?>front/upload/blog_masonry_05.jpg" alt="" class="img-fluid">
                              <div class="shadoweffect">
                                 <div class="shadow-desc">
                                     <div class="blog-meta">
@@ -91,7 +91,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_05.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_05.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span></span>
                                             </div><!-- end hover -->
@@ -111,7 +111,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_06.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_06.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span></span>
                                             </div><!-- end hover -->
@@ -138,7 +138,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_01.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_01.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span></span>
                                             </div><!-- end hover -->
@@ -156,7 +156,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_02.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_02.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span></span>
                                             </div><!-- end hover -->
@@ -174,7 +174,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_03.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_03.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span></span>
                                             </div><!-- end hover -->
@@ -192,7 +192,7 @@
                                 <div class="blog-box">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_04.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_04.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect">
                                                 <span></span>
                                             </div><!-- end hover -->
@@ -215,7 +215,7 @@
                     <div class="col-lg-10 offset-lg-1">
                         <div class="banner-spot clearfix">
                             <div class="banner-img">
-                                <img src="<?= CSS_PATH;?>front/upload/banner_01.jpg" alt="" class="img-fluid">
+                                <img src="<?= PATH;?>front/upload/banner_01.jpg" alt="" class="img-fluid">
                             </div><!-- end banner-img -->
                         </div><!-- end banner -->
                     </div><!-- end col -->
@@ -234,7 +234,7 @@
                                 <div class="col-md-4">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_01.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_square_01.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect"></div>
                                         </a>
                                     </div><!-- end media -->
@@ -255,7 +255,7 @@
                                 <div class="col-md-4">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect"></div>
                                         </a>
                                     </div><!-- end media -->
@@ -276,7 +276,7 @@
                                 <div class="col-md-4">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect"></div>
                                         </a>
                                     </div><!-- end media -->
@@ -303,7 +303,7 @@
                                 <div class="col-md-4">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_05.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_square_05.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect"></div>
                                         </a>
                                     </div><!-- end media -->
@@ -324,7 +324,7 @@
                                 <div class="col-md-4">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_06.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_square_06.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect"></div>
                                         </a>
                                     </div><!-- end media -->
@@ -345,7 +345,7 @@
                                 <div class="col-md-4">
                                     <div class="post-media">
                                         <a href="single.html" title="">
-                                            <img src="<?= CSS_PATH;?>front/upload/blog_square_07.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/blog_square_07.jpg" alt="" class="img-fluid">
                                             <div class="hovereffect"></div>
                                         </a>
                                     </div><!-- end media -->
@@ -370,7 +370,7 @@
                         <div class="blog-box">
                             <div class="post-media">
                                 <a href="single.html" title="">
-                                    <img src="<?= CSS_PATH;?>front/upload/blog_10.jpg" alt="" class="img-fluid">
+                                    <img src="<?= PATH;?>front/upload/blog_10.jpg" alt="" class="img-fluid">
                                     <div class="hovereffect">
                                         <span class="videohover"></span>
                                     </div><!-- end hover -->
@@ -388,7 +388,7 @@
                         <div class="blog-box">
                             <div class="post-media">
                                 <a href="single.html" title="">
-                                    <img src="<?= CSS_PATH;?>front/upload/blog_11.jpg" alt="" class="img-fluid">
+                                    <img src="<?= PATH;?>front/upload/blog_11.jpg" alt="" class="img-fluid">
                                     <div class="hovereffect">
                                         <span class="videohover"></span>
                                     </div><!-- end hover -->
@@ -406,7 +406,7 @@
                         <div class="blog-box">
                             <div class="post-media">
                                 <a href="single.html" title="">
-                                    <img src="<?= CSS_PATH;?>front/upload/blog_12.jpg" alt="" class="img-fluid">
+                                    <img src="<?= PATH;?>front/upload/blog_12.jpg" alt="" class="img-fluid">
                                     <div class="hovereffect">
                                         <span class="videohover"></span>
                                     </div><!-- end hover -->
@@ -428,7 +428,7 @@
                         <div class="blog-box">
                             <div class="post-media">
                                 <a href="single.html" title="">
-                                    <img src="<?= CSS_PATH;?>front/upload/blog_07.jpg" alt="" class="img-fluid">
+                                    <img src="<?= PATH;?>front/upload/blog_07.jpg" alt="" class="img-fluid">
                                     <div class="hovereffect">
                                         <span></span>
                                     </div><!-- end hover -->
@@ -446,7 +446,7 @@
                         <div class="blog-box">
                             <div class="post-media">
                                 <a href="single.html" title="">
-                                    <img src="<?= CSS_PATH;?>front/upload/blog_08.jpg" alt="" class="img-fluid">
+                                    <img src="<?= PATH;?>front/upload/blog_08.jpg" alt="" class="img-fluid">
                                     <div class="hovereffect">
                                         <span></span>
                                     </div><!-- end hover -->
@@ -464,7 +464,7 @@
                         <div class="blog-box">
                             <div class="post-media">
                                 <a href="single.html" title="">
-                                    <img src="<?= CSS_PATH;?>front/upload/blog_09.jpg" alt="" class="img-fluid">
+                                    <img src="<?= PATH;?>front/upload/blog_09.jpg" alt="" class="img-fluid">
                                     <div class="hovereffect">
                                         <span></span>
                                     </div><!-- end hover -->
@@ -485,7 +485,7 @@
                     <div class="col-lg-10 offset-lg-1">
                         <div class="banner-spot clearfix">
                             <div class="banner-img">
-                                <img src="<?= CSS_PATH;?>front/upload/banner_02.jpg" alt="" class="img-fluid">
+                                <img src="<?= PATH;?>front/upload/banner_02.jpg" alt="" class="img-fluid">
                             </div><!-- end banner-img -->
                         </div><!-- end banner -->
                     </div><!-- end col -->

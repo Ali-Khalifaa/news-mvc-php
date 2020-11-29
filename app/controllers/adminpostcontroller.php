@@ -18,11 +18,7 @@ class adminpostcontroller extends controller{
         }
     }
     public function index(){
-        $this->view('back/index',['title' => 'admin']);
+        $this->view('back/article',['title' => 'admin']);
     }
-    public function logout(){
-        session::stop();
-        helpers::redirect('user/login');
-        
-    }
+  
 }

@@ -10,7 +10,7 @@ define("MODEL",APP."models".DS);
 define("VIEW",APP."views".DS);
 define("CONFIG",APP."config".DS);
 define("DOMAIN_NAME","http://localhost/mvc/public");
-define("CSS_PATH",DOMAIN_NAME."/");
+define("PATH",DOMAIN_NAME."/");
 
 require_once ("../vendor/autoload.php");
 

@@ -48,5 +48,10 @@ class usercontroller extends controller{
         }
         
     }
+    public function logout(){
+        session::stop();
+        helpers::redirect('user/login');
+        
+    }
 
 }

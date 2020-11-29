@@ -33,7 +33,7 @@
                             </div><!-- end title -->
 
                             <div class="single-post-media">
-                                <img src="<?= CSS_PATH;?>front/upload/menu_08.jpg" alt="" class="img-fluid">
+                                <img src="<?= PATH;?>front/upload/menu_08.jpg" alt="" class="img-fluid">
                             </div><!-- end media -->
 
                             <div class="blog-content">  
@@ -48,7 +48,7 @@
 
                                 </div><!-- end pp -->
 
-                                <img src="<?= CSS_PATH;?>front/upload/menu_05.jpg" alt="" class="img-fluid img-fullwidth">
+                                <img src="<?= PATH;?>front/upload/menu_05.jpg" alt="" class="img-fluid img-fullwidth">
 
                                 <div class="pp">
                                     <h3><strong>Nam non velit est. Sed lobortis arcu vitae nunc molestie consectetur. Nam eget neque ac ex fringilla dignissim eu ac est. Nunc et nisl vel odio posuere. </strong></h3>
@@ -67,7 +67,7 @@
 
                                     <p>Proin ultricies nulla consectetur, sollicitudin dolor at, sollicitudin mauris. Maecenas at nunc nunc. Ut nulla felis, tincidunt et porttitor at, rutrum in dolor. Aenean id tincidunt ligula. Donec vitae placerat odio. Mauris accumsan nibh ut nunc maximus, ac auctor elit vehicula. Cras leo sem, vehicula a ultricies ac, condimentum vitae lectus. Sed ut eros euismod, luctus nisl eu, congue odio. </p>
 
-                                    <p><img src="<?= CSS_PATH;?>front/upload/blog_01.jpg" class="float-left" width="340" alt="">Suspendisse ultrices placerat dolor sed efficitur. Morbi in laoreet diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut massa id lectus laoreet porta non in metus. Donec nibh justo, tincidunt non justo ut, tincidunt malesuada turpis. Cras pellentesque sollicitudin ex eget pharetra.</p>
+                                    <p><img src="<?= PATH;?>front/upload/blog_01.jpg" class="float-left" width="340" alt="">Suspendisse ultrices placerat dolor sed efficitur. Morbi in laoreet diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut massa id lectus laoreet porta non in metus. Donec nibh justo, tincidunt non justo ut, tincidunt malesuada turpis. Cras pellentesque sollicitudin ex eget pharetra.</p>
 
                                     <h3><strong>Nam non velit est. Sed lobortis arcu vitae nunc molestie consectetur. Nam eget neque ac ex fringilla dignissim eu ac est. Nunc et nisl vel odio posuere. </strong></h3>
 
@@ -100,7 +100,7 @@
                                 <div class="col-lg-12">
                                     <div class="banner-spot clearfix">
                                         <div class="banner-img">
-                                            <img src="<?= CSS_PATH;?>front/upload/banner_01.jpg" alt="" class="img-fluid">
+                                            <img src="<?= PATH;?>front/upload/banner_01.jpg" alt="" class="img-fluid">
                                         </div><!-- end banner-img -->
                                     </div><!-- end banner -->
                                 </div><!-- end col -->
@@ -115,7 +115,7 @@
                                             <div class="list-group">
                                                 <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                                     <div class="w-100 justify-content-between text-right">
-                                                        <img src="<?= CSS_PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid float-right">
+                                                        <img src="<?= PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid float-right">
                                                         <h5 class="mb-1">5 Beautiful buildings you need to before dying</h5>
                                                         <small>Prev Post</small>
                                                     </div>
@@ -129,7 +129,7 @@
                                             <div class="list-group">
                                                 <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                                     <div class="w-100 justify-content-between">
-                                                        <img src="<?= CSS_PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid float-left">
+                                                        <img src="<?= PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid float-left">
                                                         <h5 class="mb-1">Let's make an introduction to the glorious world of history</h5>
                                                         <small>Next Post</small>
                                                     </div>
@@ -146,7 +146,7 @@
                                 <h4 class="small-title">About author</h4>
                                 <div class="row">
                                     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                        <img src="<?= CSS_PATH;?>front/upload/author.jpg" alt="" class="img-fluid rounded-circle"> 
+                                        <img src="<?= PATH;?>front/upload/author.jpg" alt="" class="img-fluid rounded-circle"> 
                                     </div><!-- end col -->
 
                                     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
@@ -175,7 +175,7 @@
                                         <div class="blog-box">
                                             <div class="post-media">
                                                 <a href="single.html" title="">
-                                                    <img src="<?= CSS_PATH;?>front/upload/menu_06.jpg" alt="" class="img-fluid">
+                                                    <img src="<?= PATH;?>front/upload/menu_06.jpg" alt="" class="img-fluid">
                                                     <div class="hovereffect">
                                                         <span class=""></span>
                                                     </div><!-- end hover -->
@@ -193,7 +193,7 @@
                                         <div class="blog-box">
                                             <div class="post-media">
                                                 <a href="single.html" title="">
-                                                    <img src="<?= CSS_PATH;?>front/upload/menu_07.jpg" alt="" class="img-fluid">
+                                                    <img src="<?= PATH;?>front/upload/menu_07.jpg" alt="" class="img-fluid">
                                                     <div class="hovereffect">
                                                         <span class=""></span>
                                                     </div><!-- end hover -->
@@ -218,7 +218,7 @@
                                         <div class="comments-list">
                                             <div class="media">
                                                 <a class="media-left" href="#">
-                                                    <img src="<?= CSS_PATH;?>front/upload/author.jpg" alt="" class="rounded-circle">
+                                                    <img src="<?= PATH;?>front/upload/author.jpg" alt="" class="rounded-circle">
                                                 </a>
                                                 <div class="media-body">
                                                     <h4 class="media-heading user_name">Amanda Martines <small>5 days ago</small></h4>
@@ -228,7 +228,7 @@
                                             </div>
                                             <div class="media">
                                                 <a class="media-left" href="#">
-                                                    <img src="<?= CSS_PATH;?>front/upload/author_01.jpg" alt="" class="rounded-circle">
+                                                    <img src="<?= PATH;?>front/upload/author_01.jpg" alt="" class="rounded-circle">
                                                 </a>
                                                 <div class="media-body">
 
@@ -241,7 +241,7 @@
                                             </div>
                                             <div class="media last-child">
                                                 <a class="media-left" href="#">
-                                                    <img src="<?= CSS_PATH;?>front/upload/author_02.jpg" alt="" class="rounded-circle">
+                                                    <img src="<?= PATH;?>front/upload/author_02.jpg" alt="" class="rounded-circle">
                                                 </a>
                                                 <div class="media-body">
 
@@ -293,7 +293,7 @@
                                     <div class="list-group">
                                         <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                             <div class="w-100 justify-content-between">
-                                                <img src="<?= CSS_PATH;?>front/upload/blog_square_01.jpg" alt="" class="img-fluid float-left">
+                                                <img src="<?= PATH;?>front/upload/blog_square_01.jpg" alt="" class="img-fluid float-left">
                                                 <h5 class="mb-1">5 Beautiful buildings you need to before dying</h5>
                                                 <small>12 Jan, 2016</small>
                                             </div>
@@ -301,7 +301,7 @@
 
                                         <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                             <div class="w-100 justify-content-between">
-                                                <img src="<?= CSS_PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid float-left">
+                                                <img src="<?= PATH;?>front/upload/blog_square_02.jpg" alt="" class="img-fluid float-left">
                                                 <h5 class="mb-1">Let's make an introduction for creative life</h5>
                                                 <small>11 Jan, 2016</small>
                                             </div>
@@ -309,7 +309,7 @@
 
                                         <a href="single.html" class="list-group-item list-group-item-action flex-column align-items-start">
                                             <div class="w-100 last-item justify-content-between">
-                                                <img src="<?= CSS_PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid float-left">
+                                                <img src="<?= PATH;?>front/upload/blog_square_03.jpg" alt="" class="img-fluid float-left">
                                                 <h5 class="mb-1">Did you see the most beautiful sea in the world?</h5>
                                                 <small>07 Jan, 2016</small>
                                             </div>
@@ -322,7 +322,7 @@
                                 <h2 class="widget-title">Advertising</h2>
                                 <div class="banner-spot clearfix">
                                     <div class="banner-img">
-                                        <img src="<?= CSS_PATH;?>front/upload/banner_03.jpg" alt="" class="img-fluid">
+                                        <img src="<?= PATH;?>front/upload/banner_03.jpg" alt="" class="img-fluid">
                                     </div><!-- end banner-img -->
                                 </div><!-- end banner -->
                             </div><!-- end widget -->
@@ -330,15 +330,15 @@
                             <div class="widget">
                                 <h2 class="widget-title">Instagram Feed</h2>
                                 <div class="instagram-wrapper clearfix">
-                                    <a class="" href="#"><img src="<?= CSS_PATH;?>front/upload/insta_01.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_02.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_03.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_04.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_05.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_06.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_07.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_08.jpeg" alt="" class="img-fluid"></a>
-                                    <a href="#"><img src="<?= CSS_PATH;?>front/upload/insta_09.jpeg" alt="" class="img-fluid"></a>
+                                    <a class="" href="#"><img src="<?= PATH;?>front/upload/insta_01.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_02.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_03.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_04.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_05.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_06.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_07.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_08.jpeg" alt="" class="img-fluid"></a>
+                                    <a href="#"><img src="<?= PATH;?>front/upload/insta_09.jpeg" alt="" class="img-fluid"></a>
                                 </div><!-- end Instagram wrapper -->
                             </div><!-- end widget -->
 
